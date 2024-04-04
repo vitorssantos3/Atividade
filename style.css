@@ -2,4 +2,5 @@ header{color: blue;}
 h1,h2{font-family: Arial, Helvetica, sans-serif;}
 nav{font-weight: bold;}
 .container{margin: 20px auto;}
-#conteudo{line: height 1.5em; ;}
+#conteudo{line-height: 1.5px ;}
+form{color: gray;border-style:solid 1px;padding: 10px;}
